@@ -1,0 +1,11 @@
+UniRx - https://github.com/neuecc/UniRx
+Addressables - из AssetStore
+UniTask - https://github.com/Cysharp/UniTask
+
+Application.dataPath; // Содержит путь к папке игровых данных
+Application.persistentDataPath; // Путь к постоянной директории данных
+Application.streamingAssetsPath; // Путь к папке StreamingAssets
+Application.temporaryCachePath; // Путь к временным данным/директории кэша
+
+WebView Unity
+https://refactoring.guru/ru/design-patterns/memento
